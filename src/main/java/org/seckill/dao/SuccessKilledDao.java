@@ -1,6 +1,7 @@
 package org.seckill.dao;
 
 import com.sun.net.httpserver.Authenticator;
+
 import org.apache.ibatis.annotations.Param;
 import org.seckill.entity.SuccessKilled;
 
@@ -14,7 +15,7 @@ public interface SuccessKilledDao {
      * @param userPhone
      * @return如果影响行数>1,表示更新的记录行数
      */
-    int insertSuccessKilled(@Param("seckillId") long seckillId,@Param("userPhone") long userPhone);
+    int insertSuccessKilled(@Param("seckillId") long seckillId, @Param("userPhone") long userPhone);
 
     /**
      * 根据ID查询并携带秒杀产品对象的实体
