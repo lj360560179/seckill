@@ -161,6 +161,12 @@
       <artifactId>commons-collections</artifactId>
       <version>3.2</version>
     </dependency>
+    <!--定时任务配置 -->
+    <dependency>
+      <groupId>org.quartz-scheduler</groupId>
+      <artifactId>quartz</artifactId>
+      <version>1.8.4</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>seckill</finalName>
