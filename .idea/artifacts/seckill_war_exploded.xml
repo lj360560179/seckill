@@ -41,6 +41,10 @@
           <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2" />
           <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:1.8.4" />
           <element id="library" level="project" name="Maven: javax.transaction:jta:1.1" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.2.5" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.3" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-web:1.2.5" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.2.5" />
         </element>
       </element>
       <element id="directory" name="META-INF">
