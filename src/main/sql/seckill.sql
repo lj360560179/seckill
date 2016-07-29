@@ -115,7 +115,7 @@ CREATE TABLE `t_user` (
 -- ----------------------------
 -- Records of t_user
 -- ----------------------------
-INSERT INTO `t_user` VALUES ('1', 'crossoverJie', '123456', '1');
+INSERT INTO `t_user` VALUES ('1', 'xxxxxx', '123456', '1');
 INSERT INTO `t_user` VALUES ('2', 'aaa', '12345', '2');
 INSERT INTO `t_user` VALUES ('3', 'bbb', '12345', null);
 INSERT INTO `t_user` VALUES ('4', 'ccc', '12345', null);
