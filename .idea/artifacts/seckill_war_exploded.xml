@@ -45,6 +45,17 @@
           <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.3" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-web:1.2.5" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.2.5" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-all:5.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-pool:5.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-jms-pool:5.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec:1.0.1" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.6" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-client:5.9.0" />
+          <element id="library" level="project" name="Maven: org.fusesource.hawtbuf:hawtbuf:1.9" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jms:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-messaging:4.1.7.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">
