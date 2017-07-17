@@ -55,7 +55,7 @@ public class BizQuartz {
 	@Scheduled(cron = "0/10 * * * * ? ")
 	public void cacheClear() {
 
-			messageSenderTopic.send("topic");
+			//messageSenderTopic.send("topic");
 
 
 	}

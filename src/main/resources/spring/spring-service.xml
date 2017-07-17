@@ -17,5 +17,6 @@
     <!--配置基于注解的生命事务-->
     <!--默认使用注解来管理事务-->
     <tx:annotation-driven transaction-manager="transactionManager" />
+    <!-- SpringMVC上传文件时，需要配置MultipartResolver处理器 -->
 
 </beans>

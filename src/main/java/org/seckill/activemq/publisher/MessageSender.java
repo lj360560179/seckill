@@ -20,7 +20,7 @@ public class MessageSender {
         try {
             jmsTemplate.setDefaultDestination(destination);
             jmsTemplate.convertAndSend(text);
-            System.out.println("P2P发送消息 : " + text);
+            System.out.println("队列发送消息 : " + text);
         } catch (Exception e) {
             e.printStackTrace();
         }
